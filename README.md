@@ -1,4 +1,4 @@
-# 🏨 Hotel Revenue Analysis – Power BI Project
+# Hotel Revenue Analysis – Power BI Project
 
 # Project Overview
 
