@@ -1,6 +1,6 @@
-# Hotel Revenue Analysis – Power BI Project
+# Milestone 1
 
-# Project Overview
+# Overview
 
 This project focuses on analyzing **hotel performance and revenue trends** using **Power BI Desktop**. The dataset represents **daily aggregated hotel data**, including check-ins, check-outs, ADR, RevPAR, bookings, and cancellations.
 
@@ -43,26 +43,26 @@ The model follows a **Star Schema design**, where the fact table is connected to
 
 ### Dimension Tables
 
-#### 📅 Date Dimension
+#### Date Dimension
 
 * Date
 * Month
 * Quarter
 * Season
 
-#### 🛏 Room Dimension
+#### Room Dimension
 
 * room_id (derived surrogate key)
 * room_category (Standard / Deluxe / Premium)
 
-#### 👤 Customer Dimension
+####  Customer Dimension
 
 * customer_id (single surrogate key for aggregated data)
 * Booking_Channel
 * Guest_Type
 * Guest_Country
 
-#### 🏢 Hotel Branch Dimension
+####  Hotel Branch Dimension
 
 * hotel_id
 * hotel_name (Resort Hotel / City Hotel)
@@ -145,10 +145,15 @@ This project demonstrates how to convert aggregated hotel data into a well-struc
 
 ---
 
-## Author
+## 👤 Author
 
 **Nehasri Anumula**
 Aspiring Data Analyst | Power BI | SQL | Python
+
+---
+
+##
+
 
 
 
